@@ -42,5 +42,3 @@ En el Python, en el código se usa la libreria numpy para operaciones y matplotl
 
 
 
-
-
