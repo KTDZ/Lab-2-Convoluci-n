@@ -30,8 +30,9 @@ Para gráficar la señal resultante, se hace uso de un plano cartesiano donde en
 
 [Gráfica a mano](Gráfica_convolución.pdf)
 
-
+En el Python, en el código se usa la libreria numpy para operaciones y matplotlib.pyplot para gráficar la señal resultante. Para hacer la convolución, se crea los respectivos vectores haciendo uso de un arreglo (`array`) para almacenar multiples elementos que son del mismo tipo en una sola variable y asi facilitar las operaciones entre los vectores. Se usa la función `convolve`que permite realizar la operación de convolución.
 ![Código-convolución](https://github.com/user-attachments/assets/70693ded-dee6-486d-be25-582cf1787787)
+
 
 
 
