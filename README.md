@@ -13,4 +13,4 @@ La **correlación** es una medidad para saber la similitud que hay entre dos se�
 
 1. **Convolución (item a)** tanto a mano como en python y con representación gráfica y secuencial.
 2. **Correlación (item b)** de dos señales en python con representación gráfica y secuencial.
-3. **Transformada de Fourier (item c)** de una señal EEG descargada desde la base de datos [PhysioNet`](https://physionet.org/) y haciendo análisis estadisticos descriptivos en función de la frecuencia (frecuencia media,frecuencia mediana,desviación estándar,histograma de frecuencias).
+3. **Transformada de Fourier (item c)** de una señal EEG descargada desde la base de datos [PhysioNet`](https://physionet.org/) y haciendo análisis estadisticos descriptivos en función de la frecuencia (frecuencia media, frecuencia mediana, desviación estándar, histograma de frecuencias).
