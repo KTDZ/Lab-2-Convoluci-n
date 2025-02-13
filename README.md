@@ -36,10 +36,11 @@ En el Python, en el código se usa la libreria numpy para operaciones y matplotl
 ![Código-convolución](https://github.com/user-attachments/assets/70693ded-dee6-486d-be25-582cf1787787)
 ## *Figura 1: Lineas de código para realizar la convolución.*
 
-
 ![Código_gráfica](https://github.com/user-attachments/assets/158c42b2-0e79-4d8e-afc7-dde772455b9e)
+## *Figura 2: Lineas de código para realizar la gráfica.*
 
 ![Captura de pantalla 2025-02-12 231524](https://github.com/user-attachments/assets/3bdabc9f-0510-42ab-83d4-763fe5c8c752)
+## *Figura 3: Gráfica en Python de la convolución.*
 
 
 
