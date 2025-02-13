@@ -80,8 +80,8 @@ Una vez que ya cargamos la señal EEG, se calcularon los siguientes estadisticos
 ## Clasificación de la señal 
 Para clasificar la señal EEG, podemos seguir un enfoque basado en las bandas de frecuencia estándar del EEG: 
 1. **Delta(0.5 - 4 Hz)**: Asociada al sueño profundo
-2. **Theta(4 - 8 Hz)**: Relacionada a la somnolencia,relajación profunda o estados meditativos 
-3.**Alpha (8 -13 Hz)**:Presente en estados de relajación y vigilia tranquila 
+2. **Theta(4 - 8 Hz)**: Relacionada a la somnolencia,relajación profunda o estados meditativos
+3.**Alpha (8 -13 Hz)**:Presente en estados de relajación y vigilia tranquila
 4.**Beta (13 -30 Hz)**: Asociada con actividad mental activa y de concentración. 
 5.**Gamma (30 - 100  Hz)**: Relaciona con procesos cognitivos superiores. 
 
