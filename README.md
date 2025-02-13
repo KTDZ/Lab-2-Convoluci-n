@@ -28,7 +28,7 @@ Se tiene el sistema h[n]={5,6,0,0,6,7,7} y la señal x[n]={1,0,7,3,1,5,2,5,0,6}.
 
 Para gráficar la señal resultante, se hace uso de un plano cartesiano donde en el eje X va la posición del vector, y en el eje Y va cada dato o muestra que esta en esa posición. por ejemplo tengo la señal resultante y[n]={4,5,7,2,1}, en ese caso la primera posición del vector es 0 y en ese lugar se encuentra la muestra 4, es decir en el eje X iria 0 y en el eje Y iria 4, y asi sucesivamente. A continuación se muestra un enlace para acceder a una imagen y tener una mejor comprensión de la gráfica:
 
-[Gráfica a mano](Gráfica-convolución.pdf)
+[Gráfica a mano](Gráfica_convolución.pdf)
 
 
 
