@@ -20,3 +20,6 @@ La **correlación** es una medidad para saber la similitud que hay entre dos se�
 - **Spyder** (Puedes instalarlo como parte de [Anaconda](https://www.anaconda.com/)).
 - **Bibliotecas de Python:** `numpy`,`matplotlib`,`wfdb`.
 - **Una señal fisiológica en formato `.dat` y `.hea` (Se puede descargala de [Physionet](https://physionet.org/))**.
+
+## Convolución
+Se tiene el sistema h[n]={5,6,0,0,6,7,7} y la señal x[n]={1,0,7,3,1,5,2,5,0,6}.
