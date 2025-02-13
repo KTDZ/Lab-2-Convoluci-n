@@ -30,7 +30,7 @@ Para gráficar la señal resultante, se hace uso de un plano cartesiano donde en
 
 [Gráfica a mano](Gráfica_convolución.pdf)
 
-En el Python, en el código se usa la libreria numpy para operaciones y matplotlib.pyplot para gráficar la señal resultante. Para hacer la convolución, se crea los respectivos vectores haciendo uso de un arreglo (`array`) para almacenar multiples elementos que son del mismo tipo en una sola variable y asi facilitar las operaciones entre los vectores. Se usa la función `convolve`que permite realizar la operación de convolución.
+En el Python, en el código se usa la libreria numpy para operaciones y matplotlib.pyplot para gráficar la señal resultante. Para hacer la convolución, se crea los respectivos vectores haciendo uso de un arreglo `array`para almacenar multiples elementos que son del mismo tipo en una sola variable y asi facilitar las operaciones entre los vectores. Se usa la función `convolve`que permite realizar la operación de convolución.
 
 
 ![Código-convolución](https://github.com/user-attachments/assets/70693ded-dee6-486d-be25-582cf1787787)
@@ -44,6 +44,13 @@ En el Python, en el código se usa la libreria numpy para operaciones y matplotl
 
 
 
+
+
+
+
+
+## Conclusión
+Se evidencia que la convolución a mano es la misma que arroja Python, mostrando como se ve la señal resultante entre una señal x[n] y un sistema h[n] y reconociendo que esta operación sirve para modelar la salida de un sistema LTI ante una entrada específica. En cuanto a la correlación, muestra las similitud que puede tener la señal y los patrones que coinciden entre las señales y la transformada de fourier nos ofrece una perspectiva en el dominio de la frecuencia de la señal EEG, facilitando el análisis y diseño de sistemas.
 
 
 
