@@ -23,7 +23,7 @@ La **correlación** es una medidad para saber la similitud que hay entre dos se�
 
 ## Convolución
 Se tiene el sistema h[n]={5,6,0,0,6,7,7} y la señal x[n]={1,0,7,3,1,5,2,5,0,6}.Para calcular la convolución (x*h) a mano se hace una tabla, donde en la fila va a ir todas las muestras del sistema y en la columna las muestras de la señal. Luego, se multiplica fila por columna, llenando asi toda la tabla y por último se realiza una suma en diagonal (guiada por el lápiz rojo) para asi obtener una nueva señal y[n] con sus respectivas muestras. A continuación se muestra una imagén para una mejor comprensión del procedimiento:
-[Texto del enlace](file:///C:/Users/juand/Downloads/Convoluci%C3%B3n.pdf)
+[Texto del enlace](Convolución.pdf)
 
 
 
