@@ -56,6 +56,7 @@ En la muestra un comportamiento periodicocon una diferencia de fa
 - Guardar los archivos descargados en la misma carpeta donde se guardo el código
 - Verificar o Instalar todas las librerias necesarias
 - Usar la función wfdb.rdrecord() para leer el archivo
+ ##
   ![image](https://github.com/user-attachments/assets/ebde78fe-81fd-4ac1-a340-e7a8a2a5bfcb)
   ### *Figura 4: Lectura de la señal EEG.*
 
@@ -69,19 +70,21 @@ Una vez que ya cargamos la señal EEG, se calcularon los siguientes estadisticos
  5. **SNR de artefacto**
  6. **SNR de impulso**
  7. **SNR gaussioano**
+##
 ![image](https://github.com/user-attachments/assets/6f9a8320-222c-4f9d-8000-9f010579ba63)
 ### *Figura 5 : Calculos de los estadisticos descriptivos*
+##
 ![image](https://github.com/user-attachments/assets/41fbc393-f27c-4f36-a24b-22537ac2cb05)
 ### *Figura 6 : Calculo del SNR*
 
 ## Clasificación de la señal 
 Para clasificar la señal EEG, podemos seguir un enfoque basado en las bandas de frecuencia estándar del EEG: 
-
-1.**Delta(0.5 - 4 Hz)**: Asociada al sueño profundo 
-2.**Theta(4 - 8 Hz)**: Relacionada a la somnolencia,relajación profunda o estados meditativos 
+1. **Delta(0.5 - 4 Hz)**: Asociada al sueño profundo
+2. **Theta(4 - 8 Hz)**: Relacionada a la somnolencia,relajación profunda o estados meditativos 
 3.**Alpha (8 -13 Hz)**:Presente en estados de relajación y vigilia tranquila 
 4.**Beta (13 -30 Hz)**: Asociada con actividad mental activa y de concentración. 
 5.**Gamma (30 - 100  Hz)**: Relaciona con procesos cognitivos superiores. 
+
 
 En este caso nuestra señal varia al rededor de 8 Hz Lo cual nos dice que puede clasificarse tanto como una señal Theta como Alpha, para determinar cual de estas dos señales es nos tocaria realizar calculos mas rigurosos. 
 
@@ -92,13 +95,14 @@ En este caso nuestra señal varia al rededor de 8 Hz Lo cual nos dice que puede 
  - Ls señal EEG mostró una frecuencia media en el rango esperado para la actividad cerebral normal.
  - la transformada de fourirer reveló la presencia de componentes de baja frecuencia, lo cual es normal en las señales EEG
  - El histograma de frecuencias indicó antes y despues del rudio de la muestra:
-   -**Incremento de la media**: Sugiere un desplazamiento en los valores de la señal por la adición de ruido
+ - -**Incremento de la media**: Sugiere un desplazamiento en los valores de la señal por la adición de ruido
    -**Aumento drástico de la desviación estandar**: Indica que hay mayor dispersión en los datos, señla de una mayor 
      perturbación en la señal original.
    -**SNR más bajo con ruido tipo artefacto**: Este tipo de ruido degrada la señal EEG más que los otros tipos de ruidos 
      evaluados
    -**Frecuencia de muestreo de 8 Hz**: Esta frecuencia es adecuada para ciertos análisis de EEG de baja frecuencia, pero 
      insuficientes para captar detalles de alta frecuencia.
+   
 A continuación se mostraran las diferentes graficas ya explicadas:
 ![image](https://github.com/user-attachments/assets/9133a78b-68ac-4287-9aa2-43f205290d5e)
 ### *Figura 8 : Señal original*
