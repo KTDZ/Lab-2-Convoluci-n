@@ -31,6 +31,10 @@ Para gráficar la señal resultante, se hace uso de un plano cartesiano donde en
 [Gráfica a mano](Gráfica_convolución.pdf)
 
 
+![Código-convolución](https://github.com/user-attachments/assets/70693ded-dee6-486d-be25-582cf1787787)
+
+
+
 
 
 
