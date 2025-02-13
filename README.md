@@ -123,14 +123,6 @@ Se evidencia que la convolución a mano es la misma que arroja Python, mostrando
 
 El análisis estadistico permitió caracterizar una señal EEG en terminos tanto temporales como espectrales. la transformada de fourier due clvase para identificar patrones de frecuencia y distribución en el dominio espectral. Además, el estudio de los estadísticos antes y despues del ruido permitió evaluar cómo diferentes tipos de ruidos pueden afectar la señal EEG. 
 
-
-
-
-
-
-
-
-## Conclusión
 Se evidencia que la convolución a mano es la misma que arroja Python, mostrando como se ve la señal resultante entre una señal x[n] y un sistema h[n] y reconociendo que esta operación sirve para modelar la salida de un sistema LTI ante una entrada específica. En cuanto a la correlación, muestra las similitud que puede tener la señal y los patrones que coinciden entre las señales y la transformada de fourier nos ofrece una perspectiva en el dominio de la frecuencia de la señal EEG, facilitando el análisis y diseño de sistemas.
 
 
