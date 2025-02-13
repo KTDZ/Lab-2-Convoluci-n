@@ -37,6 +37,12 @@ En el Python, en el código se usa la libreria numpy para operaciones y matplotl
 ## *Figura 1: Lineas de código para realizar la convolución.*
 
 
+![Código_gráfica](https://github.com/user-attachments/assets/158c42b2-0e79-4d8e-afc7-dde772455b9e)
+
+![Captura de pantalla 2025-02-12 231019](https://github.com/user-attachments/assets/e2d9b79c-6654-4cce-b324-da58aadd4a3b)
+
+
+
 
 
 
