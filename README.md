@@ -39,7 +39,7 @@ En el Python, en el código se usa la libreria numpy para operaciones y matplotl
 
 ![Código_gráfica](https://github.com/user-attachments/assets/158c42b2-0e79-4d8e-afc7-dde772455b9e)
 
-![Captura de pantalla 2025-02-12 231408](https://github.com/user-attachments/assets/acc36890-8543-463c-beb8-819df7c6922e)
+![Captura de pantalla 2025-02-12 231524](https://github.com/user-attachments/assets/3bdabc9f-0510-42ab-83d4-763fe5c8c752)
 
 
 
