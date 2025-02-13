@@ -33,8 +33,9 @@ Para gráficar la señal resultante, se hace uso de un plano cartesiano donde en
 En el Python, en el código se usa la libreria numpy para operaciones y matplotlib.pyplot para gráficar la señal resultante. Para hacer la convolución, se crea los respectivos vectores haciendo uso de un arreglo `array`para almacenar multiples elementos que son del mismo tipo en una sola variable y asi facilitar las operaciones entre los vectores. Se usa la función `convolve`que permite realizar la operación de convolución.
 
 ## Correlación
-La correlacion nos dice que tan parecidas son dos señales cuando una se desliza sobre la otra, en la grafica de correlacion entre x1[n] y x2[n] muestra las señales originales
-En la muestra un comportamiento periodicocon una diferencia de fa
+La correlacion nos dice que tan parecidas son dos señales cuando una se desliza sobre la otra, en la grafica de correlacion entre x1[n] y x2[n] muestra las señales originales, en la que una es seno y la otra coseno (desfasadas 90°),  significa que cuando una señal está en su punto máximo, la otra está en cero, en la grafica de correlación muestra como cambia la similitud entre las señales cuando se desplaza, la correlación máxima ocurre en donde mejor se alinean.
+Si la correlación es alta (pico positivo), significa que en ese desplazamiento las señales están alineadas en fase (parecidas)
+
 
 ![Código-convolución](https://github.com/user-attachments/assets/70693ded-dee6-486d-be25-582cf1787787)
 ### *Figura 1: Lineas de código para realizar la convolución.*
