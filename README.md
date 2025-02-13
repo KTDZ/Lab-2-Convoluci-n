@@ -3,4 +3,4 @@ Este Laboratorio tiene como objetivo el reconocimiento de la convolución entre 
 ## Tabla de Contenido
 
 ## Introducción
-La correlación es una medidad para saber la similitud que hay entre dos señales que son dependientes del espacio o del tiempo y la convolución es una operación que combina dos señales para obtener una tercera señal. Ambas serán analizadas en este laboratorio y se empleará una señal EEG para usar como herramienta la transformada de Fourier, y analizar su dominio en la frecuencia.
+La **correlación** es una medidad para saber la similitud que hay entre dos señales que son dependientes del espacio o del tiempo y la **convolución** es una operación que combina dos señales para obtener una tercera señal. Ambas serán analizadas en este laboratorio y se empleará una señal EEG para usar como herramienta la transformada de Fourier, y analizar su dominio en la frecuencia.
